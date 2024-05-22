@@ -19,3 +19,8 @@ https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage
 <br/>
 사용 기술 :  html5, css3, Javascript, Bootstrap
 <br/><br/><br/>      
+어플리케이션 스크롤 애니메이션 랜딩 페이지
+<br/>
+https://yumi-kim-0827.github.io/yumee0827_v2/
+<br/>
+사용 기술 :  html5, css3, Javascript, GSAP
