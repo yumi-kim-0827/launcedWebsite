@@ -9,18 +9,24 @@
 <br/>
 한국 도시별 관광 정보(관광지, 맛집, 예술, 축제) 조회 사이트
 <br/>
-https://yumi-kim-0827.github.io/en_tourinkorea/
+View : https://yumi-kim-0827.github.io/en_tourinkorea/
 <br/>
 사용 기술 : React JS, Router, html5, scss, Javascript, Axios
+<br/>
+github : https://github.com/yumi-kim-0827/en_tourinkorea
 <br/><br/><br/>
 기업 소개 원페이지 스크롤 랜딩 페이지
 <br/>
-https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage
+View : https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage
 <br/>
 사용 기술 :  html5, css3, Javascript, Bootstrap
-<br/><br/><br/>      
+<br/>
+github : https://github.com/yumi-kim-0827/yumee0827_v1
+<br/><br/><br/>
 어플리케이션 스크롤 애니메이션 랜딩 페이지
 <br/>
-https://yumi-kim-0827.github.io/yumee0827_v2/
+View : https://yumi-kim-0827.github.io/yumee0827_v2/
 <br/>
 사용 기술 :  html5, css3, Javascript, GSAP
+<br/>
+github : https://github.com/yumi-kim-0827/yumee0827_v2
