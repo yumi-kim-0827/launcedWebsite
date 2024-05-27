@@ -30,3 +30,24 @@ View : https://yumi-kim-0827.github.io/yumee0827_v2/
 사용 기술 :  html5, css3, Javascript, GSAP
 <br/>
 github : https://github.com/yumi-kim-0827/yumee0827_v2
+<br/><br/><br/>
+스티커 다이어리 꾸미는 일기장 : 나구나구
+<br/>
+오늘 할 일, 하고싶은 일 리스트 추가, 수정, 삭제 등의 기능이 있는 투두리스트
+<br/>
+View : https://yumi-kim-0827.github.io/nagunagu/
+<br/>
+사용 기술 : React JS, scss, Javascript
+<br/>
+github : https://github.com/yumi-kim-0827/nagunagu
+<br/><br/><br/>
+심플 TODO리스트 PWA
+<br/>
+오늘 할 일, 하고싶은 일 리스트 추가, 수정, 삭제 등의 기능이 있는 투두리스트
+<br/>
+View : https://yumi-kim-0827.github.io/simpletodo/
+<br/>
+사용 기술 : React JS, scss, Javascript
+<br/>
+github : https://github.com/yumi-kim-0827/simpletodo
+<br/><br/><br/>
