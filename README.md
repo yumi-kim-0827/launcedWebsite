@@ -6,7 +6,7 @@
 ### 🖥️YUM styled component ease copy-paste
 그라데이션 UXUI kit : 원하는 색상을 선택해 다양한 UI를 Styled-Component 코드스플릿을 복사해서 사용할 수 있습니다.
 <br/>
-View : [here](https://yum-react-ui-kit-2c9n.vercel.app/)
+View : [here](https://yum-react-ui-kit.vercel.app/)
 <br/>
 > 사용 기술 : React JS, Router, html5, scss, Javascript, Axios
 
